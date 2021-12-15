@@ -1,0 +1,20 @@
+
+################################################################################################################################################
+Starting Execution:	[1 out of 1] test cases in the current suite
+Test Method:		[signIn.SignInTest.SignIn]
+################################################################################################################################################
+[ReportManager] Waiting for element to be present; elementLocator [By.xpath: (//div[@class='header-nav none']//li)[5]], numberOfTries[5], stateOfPresence[true]... @15-12-2021 22:16:18.0861 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20211215-221617", Target File: "\1639599379318_SignIn.gif"]. @15-12-2021 22:16:19.0406 PM
+[ReportManager] Element Action [WaitForElementToBePresent] successfully performed. With the following test data [waited for the element's state of presence to be (true). Element locator (By.xpath: (//div[@class='header-nav none']//li)[5])]. @15-12-2021 22:16:19.0785 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [SIGN IN]. @15-12-2021 22:16:22.0223 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [xohigeg992@macauvpn.com]. @15-12-2021 22:16:22.0981 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Testpass1]. @15-12-2021 22:16:23.0776 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Log in]. @15-12-2021 22:16:28.0802 PM
+[ReportManager] Waiting for element to be present; elementLocator [By.xpath: (//div[@class='region region-breadcrumb']//li)[2]], numberOfTries[5], stateOfPresence[true]... @15-12-2021 22:16:28.0804 PM
+[ReportManager] Element Action [WaitForElementToBePresent] successfully performed. With the following test data [waited for the element's state of presence to be (true). Element locator (By.xpath: (//div[@class='region region-breadcrumb']//li)[2])]. @15-12-2021 22:16:29.0219 PM
+[ReportManager] Element Action [GetText] successfully performed. With the following test data [Label Archive]. @15-12-2021 22:16:29.0706 PM
+[ReportManager] Browser Action [GetCurrentURL] successfully performed. With the following test data [https://default.fashlab-staging.fashcon.com/labelarchive]. @15-12-2021 22:16:30.0079 PM
+[ReportManager] Assertion Passed: Then I Assert that the browser attribute [CURRENT_URL] contains [label]. @15-12-2021 22:16:30.0699 PM
+[ReportManager] Successfully created attachment [Screenshot - 1639599390241_SignIn_ValidateBrowserAttribute_passed] @15-12-2021 22:16:30.0749 PM
+[ReportManager] Assertion [ValidateBrowserAttribute] PASSED. Expected [Value Should be 'label' for the 'currenturl' attribute] and Actual [https://default.fashlab-staging.fashcon.com/labelarchive]. Comparison Type [CONTAINS]. Validation Type [POSITIVE]. @15-12-2021 22:16:30.0765 PM
+[ReportManager] Successfully created attachment [Animated Gif - SignIn] @15-12-2021 22:16:30.0798 PM

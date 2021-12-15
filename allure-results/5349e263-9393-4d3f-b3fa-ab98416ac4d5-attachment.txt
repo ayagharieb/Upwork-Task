@@ -1,0 +1,9 @@
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @15-12-2021 22:16:02.0783 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @15-12-2021 22:16:02.0879 PM
+[ReportManager] Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @15-12-2021 22:16:02.0883 PM
+[ReportManager] Successfully Opened Google Chrome. @15-12-2021 22:16:08.0912 PM
+[ReportManager] Target URL: [https://default.fashlab-staging.fashcon.com/] @15-12-2021 22:16:09.0381 PM
+[ReportManager] Initial URL: [data:,] @15-12-2021 22:16:09.0496 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20211215-221617", Target File: "\1639599377487_setup.gif"]. @15-12-2021 22:16:17.0951 PM
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [https://default.fashlab-staging.fashcon.com/]. @15-12-2021 22:16:18.0679 PM
+[ReportManager] Successfully created attachment [Animated Gif - setup] @15-12-2021 22:16:18.0691 PM
